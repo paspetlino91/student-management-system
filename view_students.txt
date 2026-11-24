@@ -1,0 +1,10 @@
+VIEW STUDENTS FEATURE
+
+This feature allows administrators to view registered students.
+
+Student Information Displayed:
+- Full Name
+- Email Address
+- Matriculation Number
+- Department
+
